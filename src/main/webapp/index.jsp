@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-color:green">
+  <div class="jumbotron" style="background-color:red">
      <h1 class="text-center">Welcome to</h1>
       <img src="" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
