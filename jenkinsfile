@@ -1,0 +1,8 @@
+node{
+  stage {'git checkout'} {
+  git 'https://github.com/aja6009/lama'
+  }
+  stage {'compile package'} {
+  sh 'mvn package'
+  }
+  
